@@ -1,7 +1,7 @@
 # fizz-buzz
- **44th out of the pro/g/ramming challenges, v4.0
- completed in an hour \n
- Rating - Fun 6/10, Difficulty 2/10, Errors 0/10**
+- **44th out of the pro/g/ramming challenges, v4.0
+- **completed in an hour 
+- **Rating - Fun 6/10, Difficulty 2/10, Errors 0/10**
 *Before you complete the challenge don't look at the solution!*
 
 ## Game
