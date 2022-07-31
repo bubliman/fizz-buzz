@@ -9,4 +9,4 @@ Fizz Buzz is a game for children to learn divisions. Players count from 1 and on
 ## Task
 Your task is to create a program that counts from 1 to 100. And follows the rules of Fizz Buzz, you can make a twist to them if u want. Use any language. Good luck.
 ## Notes
-Used c++ for my solution, first version is very unoptimized will make it in less lines later. Good luck. 
+Used c++ for my solution, first version is very unoptimized. I will make it in less lines later. 
